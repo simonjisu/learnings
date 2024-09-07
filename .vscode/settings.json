@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/simonjisu/code/learnings/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/simonjisu/code/learnings"
+    ]
+}
